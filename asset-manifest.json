@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e731b087.css",
-    "main.js": "/static/js/main.b4798d6c.js",
+    "main.css": "/static/css/main.70f78ee2.css",
+    "main.js": "/static/js/main.9dc1f25b.js",
     "static/media/prachapride.jpg": "/static/media/prachapride.10a4e9e895170710b184.jpg",
     "static/media/NotoSansThaiLight.ttf": "/static/media/NotoSansThaiLight.e683fde7ba1213e3e296.ttf",
     "static/media/NotoSansThaiCondensedLight.ttf": "/static/media/NotoSansThaiCondensedLight.e9dfe8684b101b89d293.ttf",
@@ -12,11 +12,11 @@
     "static/media/NotoSansThaiBold.ttf": "/static/media/NotoSansThaiBold.c9763ba4c00a214e2505.ttf",
     "static/media/NotoSansThaiCondensedMedium.ttf": "/static/media/NotoSansThaiCondensedMedium.ae0621db117590db44a8.ttf",
     "index.html": "/index.html",
-    "main.e731b087.css.map": "/static/css/main.e731b087.css.map",
-    "main.b4798d6c.js.map": "/static/js/main.b4798d6c.js.map"
+    "main.70f78ee2.css.map": "/static/css/main.70f78ee2.css.map",
+    "main.9dc1f25b.js.map": "/static/js/main.9dc1f25b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e731b087.css",
-    "static/js/main.b4798d6c.js"
+    "static/css/main.70f78ee2.css",
+    "static/js/main.9dc1f25b.js"
   ]
 }
